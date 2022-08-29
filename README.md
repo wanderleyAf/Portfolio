@@ -37,9 +37,10 @@ In this tutorial you will learn how to create an Income Statement in Power BI
 * **Output:** A complete Income Statement created in Zebra BI visual
 
 # [Project 3: How to create a Sales Web App using Python and Streamlit](https://www.youtube.com/watch?v=KU7-V4OC3Jg)
-![alt text](luke-chesser-JKUTrJ4vK00-unsplash.jpg)
+![alt text](kelly-sikkema-xoU52jUVUXA-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Chesser</a> on <a href="https://unsplash.com/s/photos/sales-report?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
+Photo by <a href="https://unsplash.com/@walkingondream?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olga DeLawrence</a> on <a href="https://unsplash.com/s/photos/income-statement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   
   
 
 In this tutorial you will learn how to create an automated Sales Web App  
