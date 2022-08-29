@@ -27,7 +27,7 @@ In this tutorial we automate payment receipts for employees.
 * **Output:** Payment receipt in PDF
 
 # [Project 2: How to Create a Profit & Losses Report in Power BI using Zebra BI](https://www.youtube.com/watch?v=SWTHN9d6g2A)
-![alt text]()
+![alt text](kelly-sikkema-xoU52jUVUXA-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/income-statement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
