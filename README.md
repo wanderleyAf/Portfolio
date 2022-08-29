@@ -17,7 +17,8 @@
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
 ![alt text](firmbee-com-jrh5lAq-mIs-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/s/photos/payment-receipts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/automate-reports?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
 In this tutorial we automate payment receipts for employees.
@@ -26,9 +27,10 @@ In this tutorial we automate payment receipts for employees.
 * **Output:** Payment receipt in PDF
 
 # [Project 2: How to Create a Profit & Losses Report in Power BI using Zebra BI](https://www.youtube.com/watch?v=SWTHN9d6g2A)
-![alt text](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
+![alt text]()
 
-Photo by <a href="https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Muza</a> on <a href="https://unsplash.com/s/photos/income-statement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/income-statement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
 In this tutorial you will learn how to create an Income Statement in Power BI 
