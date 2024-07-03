@@ -1,16 +1,10 @@
 # Portfolio
 
-# About Me
-*Working in Business Intelligence and creating educational content*
+# Acerca de mi
+*3 años como Analista de datos(SQL, POWER BI, PYTHON)*
 
-# Education
-* Professional in Business Administration, 2014-2019
-
-# YouTube Channel
-* **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
-
-# Links Page:
-* https://cjd1011-links-page-streamlit-app-rn3uxa.streamlitapp.com/
+# Educacion
+* Bachiller en Ingenieria de Sistemas, 2013-2019
 
 # My Best Projects!!
 
